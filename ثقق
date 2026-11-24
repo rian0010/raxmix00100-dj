@@ -1,0 +1,15 @@
+A responsive, local-first DJ interface prototype with selectable **2 Decks / 4 Decks**, a performance mixer, and a searchable music library.
+
+## Run it
+
+Open `index.html` in a recent desktop browser, then choose **Open music** or drag audio files into the library. Music is selected from your device and played locally in the browser; this app has **no YouTube integration** and does not fetch music from online services.
+
+## Included
+
+- 2-deck and 4-deck layouts
+- Local audio file picker and drag-and-drop library
+- Per-deck play/pause, stop, cue, sync, gain, tempo, and 3-band EQ controls
+- Master level, crossfader, cue mix, and A/B filter controls
+- Searchable track list and responsive dark blue theme
+
+This is a browser-based prototype. Browser support for audio formats varies, and local files are not uploaded or persisted after the page is closed. The visual waveform is illustrative; it does not analyze audio data.
